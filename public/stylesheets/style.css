@@ -191,10 +191,10 @@ hr {
   margin-left: 150px;
 }
 #right-header {
-  text-align: right;
+  text-align: left;
 }
 #right-paragraph {
-  text-align: right;
+  text-align: left;
   width: 100%;
 }
 
